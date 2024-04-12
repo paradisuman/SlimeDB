@@ -1,0 +1,14 @@
+IndentWidth: 2
+TabWidth: 4
+
+Language: Cpp
+BasedOnStyle: Google
+# align
+ColumnLimit: 120
+
+# clang-format 3.9+
+SortIncludes: false
+BreakStringLiterals: false
+ReflowComments: true
+DerivePointerAlignment: false
+PointerAlignment: Left
